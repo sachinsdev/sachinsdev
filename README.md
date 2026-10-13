@@ -1,6 +1,6 @@
 # Hi👋, I'm Sachin
 
-Principal Software Engineer with 21 years of experience building enterprise software, from desktop CAD and modeling tools to cloud based web platforms. During 15 years at Finfrock, my work spanned two flagship products: StructureWorks, a SolidWorks based building modeling system, and PieceTracker Cloud, a multi tenant production management platform used by precast manufacturers across North America, which I built and for which I owned all technical and architectural decisions.
+Principal Software Engineer with 21 years of experience building enterprise software, from desktop CAD and modeling tools to cloud based web platforms. During 15 years at Finfrock, I worked on two main products. StructureWorks is a SolidWorks-based system for modeling buildings. PieceTracker Cloud is a multi-tenant production platform used by precast manufacturers across North America, and I led its architecture and made the key technical decisions.
 
 ### What I work with
 C# / .NET 8 · ASP.NET Core · ABP Framework · WPF · SolidWorks API · Angular 17 · TypeScript · SQL Server · Azure · Azure AD · Azure DevOps · SignalR
