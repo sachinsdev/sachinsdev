@@ -3,7 +3,7 @@
 Principal Software Engineer with 21 years of experience building enterprise software, from desktop CAD and modeling tools to cloud based web platforms. During 15 years at Finfrock, I worked on two main products. StructureWorks is a SolidWorks-based system for modeling buildings. PieceTracker Cloud is a multi-tenant production platform used by precast manufacturers across North America, and I led its architecture and made the key technical decisions.
 
 ### What I work with
-C# / .NET 8 · ASP.NET Core · ABP Framework · WCF · Web API · WPF · SolidWorks API · Angular 17 · TypeScript · SQL Server · Azure · Azure AD · Azure DevOps · SignalR
+C# / .NET 8 · ASP.NET Core · ABP Framework · WCF · Web API · Angular 17 · TypeScript · SQL Server · Azure · Azure AD · Azure DevOps · SignalR· SolidWorks API ·  WPF 
 
 ### Highlights
 * Built PieceTracker Cloud and made all technical and architectural decisions, from the .NET 8, ABP, and Angular 17 stack to real time updates with SignalR
