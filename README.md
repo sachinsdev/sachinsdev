@@ -13,6 +13,6 @@ C# / .NET 8 · ASP.NET Core · ABP Framework · WPF · SolidWorks API · Angular
 * Led work across onsite and offshore development teams
 
 ### About this profile
-Most of my professional work lives in private company repositories. The projects here are personal and learning projects, including microservices, cloud deployment, and React work from my nanodegrees.
+Most of my professional work lives in private company repositories. This profile holds most of my personal and learning projects, including microservices, cloud deployment, and React work from my nanodegrees. My published app, [Vocabmeter for Windows](https://apps.microsoft.com/detail/9wzdncrdnj3v), is on the Microsoft Store. Its [Android version](https://3screator.com/vocabmeter-android/) is no longer published, and neither app's code is included here.
 
 📫 [LinkedIn](https://www.linkedin.com/in/sachinsdev/)
